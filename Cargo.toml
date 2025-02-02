@@ -1,0 +1,12 @@
+[package]
+name = "tools-rs"
+version = "0.1.0"
+authors = ["Arman Maurya"]
+description = "Rust Utilities Library"
+license = "MIT"
+homepage = "https://github.com/armanmaurya/tools-rs"
+repository = "https://github.com/armanmaurya/tools-rs"
+edition = "2021"
+readme = "README.md"
+
+[dependencies]
